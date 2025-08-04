@@ -2,7 +2,7 @@
 A simple and responsive Weather Application built using **HTML**, **CSS**, and **JavaScript**. It fetches real-time weather data from the **OpenWeatherMap API** and displays the temperature, humidity, wind speed, and weather conditions using icons.
 
 ## 🔗 Live Demo
-
+https://sprightly-torrone-40951c.netlify.app/
 ## 🚀 Features
 - Real-time weather updates by city name
 - Displays:
